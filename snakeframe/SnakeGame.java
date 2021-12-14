@@ -297,7 +297,6 @@ public class SnakeGame extends JFrame{
 		
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
-			// TODO Auto-generated method stub
 			timer.start();
 			
 			//for snake to move want coordinates of body to go down
